@@ -17,7 +17,7 @@ Welcome Low-Code/No-Code Security
 - https://acropolium.com/blog/migitate-low-code-security-risks/
 - https://www.forrester.com/blogs/low-code-development-requires-a-security-re-think/
 - https://topflightapps.com/ideas/no-code-low-code-vs-traditional-development/
-- https://www.google.com/url?q=https://quixy.com/blog/how-to-choose-and-adopt-a-no-code-platform/&sa=D&source=docs&ust=1660378396433029&usg=AOvVaw1K-OSwmPHsufVQiaKL1DHK
+- https://quixy.com/blog/how-to-choose-and-adopt-a-no-code-platform/
 - https://centricconsulting.com/blog/what-is-citizen-development-and-why-does-it-matter/
 - https://techbeacon.com/security/5-ways-make-your-low-code-development-more-resilient
 
