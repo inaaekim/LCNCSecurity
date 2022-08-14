@@ -11,7 +11,7 @@ Welcome Low-Code/No-Code Security
 - [Talk at AppSecVillage Defcon30](PPT-AppSecTalk.pdf)
 
 # Useful Resources
-- - https://www.codelessarchitecture.org/
+- https://www.codelessarchitecture.org/
 - https://www.unqork.com/resources/blog-articles/the-growing-need-for-robust-application-security
 - https://cdn2.assets-servd.host/quaint-admiral/production/files/no_code_low_code_platforms_bridge_legacy_digital.pdf
 - https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks
